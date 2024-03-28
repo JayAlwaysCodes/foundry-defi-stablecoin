@@ -7,3 +7,4 @@ We will building a Stable Coin for this project that is based off:
     3. Collateral: Exogenous(crypto)
         1. wETH
         2. wBTC
+        3. 0x8bA1E1e68cfaA08376F768aC65668662074a1300
